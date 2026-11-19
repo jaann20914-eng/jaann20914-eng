@@ -51,7 +51,7 @@
 | :-: | :--- | :--- | :--- |
 | 2026.09 | [**ODY**](https://github.com/jaann20914-eng/ody) | 약 662만 곡을 16차원 음향 공간에 펼친 음악 지도 | 실시간 백엔드: WebSocket(STOMP)·Redis로 주변 사용자, 화면 범위, 따라가기 |
 | 2026.08 | [LLM 데이터 생성](https://github.com/jaann20914-eng/0821-) | LLM으로 학습 데이터를 만들고 평가하는 실습 1–4 | 과제 풀이 |
-| 2026.07 | [**와글와글**](https://github.com/jaann20914-eng/waggle_waggle) ([목업](https://github.com/jaann20914-eng/waggle_proto)) | 실시간 영상핀으로 장소의 지금 혼잡도를 보는 앱 | 프론트엔드: UX/UI 목업, React Native(Expo) 화면, API 연동, 카메라·채팅 |
+| 2026.07 | **와글와글** ([앱](https://github.com/jaann20914-eng/waggle_waggle) · [목업](https://github.com/jaann20914-eng/waggle_proto)) | 실시간 영상핀으로 장소의 지금 혼잡도를 보는 앱 | 프론트엔드: UX/UI 목업, React Native(Expo) 화면, API 연동, 카메라·채팅 |
 | 2026.07 | [algo_study](https://github.com/jaann20914-eng/algo_study) | 알고리즘 스터디 | Java 풀이 |
 | 2026.05 | **Lancit** ([BE](https://github.com/jaann20914-eng/Lancit_Backend) · [FE](https://github.com/jaann20914-eng/Lancit_Frontend)) | 프리랜서와 클라이언트를 잇는 의뢰·계약·일정 관리 플랫폼 | 팀장: 아키텍처, DB 모델링, 인증·인가, 계약·제안·채팅·알림 |
 
