@@ -5,12 +5,6 @@
 </div>
 
 ## 👋 안녕하세요, 박지원입니다
-
-- 🧱 **Java 웹으로 시작**해서 React, React Native, 실시간 백엔드, AI까지 하나씩 넓혀 왔습니다.
-- 📱 사용자가 손으로 만지는 **모바일 화면**과, 여러 사람이 동시에 움직이는 **실시간 서버**를 둘 다 좋아합니다.
-- 🧭 팀에서는 **설계와 연결**을 맡는 편입니다. 아키텍처를 잡고, 화면과 서버가 같은 약속으로 말하게 만듭니다.
-- 🔬 요즘은 영상 속 **사람의 자세를 읽는 AI**를 실험하고 있습니다.
-
 <br>
 
 ## 🛠 Tech Stack
@@ -45,19 +39,27 @@
 
 ## 🚀 Projects
 
-### 2026 · 넓혀 가는 중
+### 2026 · 웹 프로젝트
 
 | 시기 | 프로젝트 | 내용 | 담당 파트 |
 | :-: | :--- | :--- | :--- |
 | 2026.09 | [**ODY**](https://github.com/jaann20914-eng/ody) | 약 662만 곡을 16차원 음향 공간에 펼친 음악 지도 | 실시간 백엔드: WebSocket(STOMP)·Redis로 주변 사용자, 화면 범위, 따라가기 |
-| 2026.08 | [LLM 경량화 · 효율화 실습](https://github.com/jaann20914-eng/llm-finetuning-lab) | Text-to-SQL 하나로 데이터 생성 → LoRA → QLoRA → vLLM 서빙까지 4단계 실습 | 개인 실습 |
 | 2026.07 | **와글와글** ([앱](https://github.com/jaann20914-eng/waggle_waggle) · [목업](https://github.com/jaann20914-eng/waggle_proto)) | 실시간 영상핀으로 장소의 지금 혼잡도를 보는 앱 | 프론트엔드: UX/UI 목업, React Native(Expo) 화면, API 연동, 카메라·채팅 |
-| 2026.07 | [algo_study](https://github.com/jaann20914-eng/algo_study) | 알고리즘 스터디 | Java 풀이 |
 | 2026.05 | **Lancit** ([BE](https://github.com/jaann20914-eng/Lancit_Backend) · [FE](https://github.com/jaann20914-eng/Lancit_Frontend)) | 프리랜서와 클라이언트를 잇는 의뢰·계약·일정 관리 플랫폼 | 팀장: 아키텍처, DB 모델링, 인증·인가, 계약·제안·채팅·알림 |
 
-### 2025 · 기초를 쌓은 시기
+### 2026 · AI 프로젝트
+| 시기 | 프로젝트 | 내용 | 담당 파트 |
+| :-: | :--- | :--- | :--- |
+| 2026.08 | [LLM 경량화 · 효율화 실습](https://github.com/jaann20914-eng/llm-finetuning-lab) | Text-to-SQL 하나로 데이터 생성 → LoRA → QLoRA → vLLM 서빙까지 4단계 실습 | 개인 실습 |
 
-> Java 웹에서 시작해 React로 넘어가며, 팀 프로젝트를 다섯 번 반복했습니다.
+### 2026 · 알고리즘
+| 시기 | 프로젝트 | 내용 | 담당 파트 |
+| :-: | :--- | :--- | :--- |
+| 2026.07 | [algo_study](https://github.com/jaann20914-eng/algo_study) | 알고리즘 스터디 | Java 풀이 |
+
+<br>
+
+### 2025 · 웹 프로젝트
 
 | 시기 | 프로젝트 | 내용 |
 | :-: | :--- | :--- |
