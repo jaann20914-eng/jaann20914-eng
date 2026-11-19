@@ -1,31 +1,90 @@
-# 박지원
+<div align="center">
 
-웹 기초부터 시작해 모바일 프론트엔드, 실시간 백엔드, AI 실험까지 넓혀 온 기록입니다.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b2b2b,100:e8604c&height=200&section=header&text=Jiwon%20Park&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=%ED%99%94%EB%A9%B4%EB%B6%80%ED%84%B0%20%EC%8B%A4%EC%8B%9C%EA%B0%84%20%EC%84%9C%EB%B2%84%EA%B9%8C%EC%A7%80%2C%20%EC%A7%81%EC%A0%91%20%EB%A7%8C%EB%93%A4%EC%96%B4%20%EB%B3%B4%EB%8A%94%20%EA%B0%9C%EB%B0%9C%EC%9E%90&descAlignY=60&descSize=18" width="100%" />
 
-## 2026 · SSAFY 15기
+</div>
 
-| 프로젝트 | 기간 | 내용 | 맡은 부분 |
-| :--- | :--- | :--- | :--- |
-| [**ody**](https://github.com/jaann20914-eng/ody) | 2026.09 | 약 662만 곡을 16차원 음향 공간에 펼친 음악 지도 서비스 (특화 프로젝트) | 백엔드 실시간 기능: WebSocket(STOMP)·Redis 기반 주변 사용자, 뷰포트, 따라가기 |
-| [**waggle_waggle**](https://github.com/jaann20914-eng/waggle_waggle) | 2026.07 – 08 | 와글와글: 실시간 영상핀으로 장소의 지금 혼잡도를 보는 앱 (공통 프로젝트) | 프론트엔드: React Native(Expo) 화면, API 연동, 카메라·채팅 |
-| [waggle_proto](https://github.com/jaann20914-eng/waggle_proto) | 2026.07 | 와글와글 모바일 UX/UI 목업 | 목업 전체 |
-| [Lancit_Backend](https://github.com/jaann20914-eng/Lancit_Backend) · [Lancit_Frontend](https://github.com/jaann20914-eng/Lancit_Frontend) | 2026.05 – 06 | Lancit: 프리랜서와 클라이언트를 잇는 의뢰·계약·일정 관리 플랫폼 | 팀장: 아키텍처 설계, DB 모델링, 인증·인가, 계약·제안·채팅·알림 도메인 (Spring Boot · Vue) |
-| [0821-](https://github.com/jaann20914-eng/0821-) | 2026.08 | AI 실습: LLM 기반 데이터 생성 과제 1–4 | 과제 풀이 |
-| [algo_study](https://github.com/jaann20914-eng/algo_study) | 2026.07 | 알고리즘 스터디 (Java) | 풀이 |
+## 👋 안녕하세요, 박지원입니다
 
-## 2025 · 기초를 쌓은 시기
+- 🧱 **Java 웹으로 시작**해서 React, React Native, 실시간 백엔드, AI까지 하나씩 넓혀 왔습니다.
+- 📱 사용자가 손으로 만지는 **모바일 화면**과, 여러 사람이 동시에 움직이는 **실시간 서버**를 둘 다 좋아합니다.
+- 🧭 팀에서는 **설계와 연결**을 맡는 편입니다. 아키텍처를 잡고, 화면과 서버가 같은 약속으로 말하게 만듭니다.
+- 🔬 요즘은 영상 속 **사람의 자세를 읽는 AI**를 실험하고 있습니다.
 
-Java 웹에서 시작해 React로 넘어가며 팀 프로젝트를 반복했습니다.
+<br>
 
-| 프로젝트 | 기간 | 내용 |
-| :--- | :--- | :--- |
-| [CS_3_Client_React](https://github.com/jaann20914-eng/CS_3_Client_React) | 2025.11 – 12 | 3차 팀 프로젝트 클라이언트 (React) |
-| [CS_React](https://github.com/jaann20914-eng/CS_React) | 2025.10 – 11 | 2차 팀 프로젝트: 그룹웨어 (React) |
-| [board](https://github.com/jaann20914-eng/board) | 2025.09 – 10 | 게시판 만들기 (React 연습) |
-| [F5](https://github.com/jaann20914-eng/F5) | 2025.08 – 09 | 팀 웹 프로젝트 (Java) |
-| [GameHubWeb](https://github.com/jaann20914-eng/GameHubWeb) | 2025.08 | 첫 팀 웹 프로젝트 (Java) |
+## 🛠 Tech Stack
 
-## 참고한 오픈소스
+**Frontend**<br>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
 
-AI 실험에서 가져와 쓴 저장소입니다 (fork).
+**Backend**<br>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" />
+<img src="https://img.shields.io/badge/WebSocket%20(STOMP)-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+<img src="https://img.shields.io/badge/MyBatis-B31B1B?style=flat-square&logoColor=white" />
+
+**Data**<br>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+
+**AI**<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+
+<br>
+
+## 🚀 Projects
+
+### 2026 · 넓혀 가는 중
+
+| | 프로젝트 | 한 줄 소개 | 내가 한 일 |
+| :-: | :--- | :--- | :--- |
+| 🎧 | [**ODY**](https://github.com/jaann20914-eng/ody) | 약 662만 곡을 16차원 음향 공간에 펼친 **음악 지도** | 실시간 백엔드: WebSocket(STOMP)·Redis로 주변 사용자, 화면 범위, 따라가기 |
+| 📍 | [**와글와글**](https://github.com/jaann20914-eng/waggle_waggle) | 실시간 영상핀으로 장소의 **지금 혼잡도**를 보는 앱 | 프론트엔드: React Native(Expo) 화면, API 연동, 카메라·채팅 |
+| 🎨 | [와글와글 목업](https://github.com/jaann20914-eng/waggle_proto) | 와글와글 모바일 UX/UI 목업 | 목업 전체 |
+| 🤝 | [**Lancit**](https://github.com/jaann20914-eng/Lancit_Backend) ([FE](https://github.com/jaann20914-eng/Lancit_Frontend)) | 프리랜서와 클라이언트를 잇는 의뢰·계약·일정 관리 플랫폼 | **팀장**: 아키텍처, DB 모델링, 인증·인가, 계약·제안·채팅·알림 |
+| 🤖 | [LLM 데이터 생성](https://github.com/jaann20914-eng/0821-) | LLM으로 학습 데이터를 만들고 평가하는 실습 1–4 | 과제 풀이 |
+| 🧩 | [algo_study](https://github.com/jaann20914-eng/algo_study) | 알고리즘 스터디 | Java 풀이 |
+
+### 2025 · 기초를 쌓은 시기
+
+> Java 웹에서 시작해 React로 넘어가며, 팀 프로젝트를 다섯 번 반복했습니다.
+
+| 시기 | 프로젝트 | 내용 |
+| :-: | :--- | :--- |
+| 2025.11 | [CS_3_Client_React](https://github.com/jaann20914-eng/CS_3_Client_React) | 세 번째 팀 프로젝트 클라이언트 (React) |
+| 2025.10 | [CS_React](https://github.com/jaann20914-eng/CS_React) | 두 번째 팀 프로젝트: 그룹웨어 (React) |
+| 2025.09 | [board](https://github.com/jaann20914-eng/board) | 게시판 만들기 (React 연습) |
+| 2025.08 | [F5](https://github.com/jaann20914-eng/F5) | 팀 웹 프로젝트 (Java) |
+| 2025.08 | [GameHubWeb](https://github.com/jaann20914-eng/GameHubWeb) | 첫 팀 웹 프로젝트 (Java) |
+
+<br>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=jaann20914-eng&show_icons=true&hide_border=true&count_private=true&title_color=e8604c&icon_color=e8604c&text_color=555555&bg_color=00000000" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaann20914-eng&layout=compact&hide_border=true&title_color=e8604c&text_color=555555&bg_color=00000000&exclude_repo=mediapipe,ViTPose,climbing-analysis-toolbox" />
+
+</div>
+
+<details>
+<summary>📚 참고한 오픈소스 (fork)</summary>
+
+AI 실험에서 가져와 쓴 저장소입니다.
 [mediapipe](https://github.com/jaann20914-eng/mediapipe) · [ViTPose](https://github.com/jaann20914-eng/ViTPose) · [climbing-analysis-toolbox](https://github.com/jaann20914-eng/climbing-analysis-toolbox)
+
+</details>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e8604c,100:2b2b2b&height=100&section=footer" width="100%" />
