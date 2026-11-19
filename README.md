@@ -74,7 +74,7 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=jaann20914-eng&show_icons=true&hide_border=true&count_private=true&title_color=e8604c&icon_color=e8604c&text_color=555555&bg_color=00000000" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=jaann20914-eng&show_icons=true&hide_rank=true&hide_border=true&count_private=true&title_color=e8604c&icon_color=e8604c&text_color=555555&bg_color=00000000" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaann20914-eng&layout=compact&hide_border=true&title_color=e8604c&text_color=555555&bg_color=00000000&exclude_repo=mediapipe,ViTPose,climbing-analysis-toolbox" />
 
 </div>
